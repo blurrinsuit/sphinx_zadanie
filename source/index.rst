@@ -3,17 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-zadanie documentation
-=====================
+Sphinx - zadanie na ocenę
+=========================
 
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
+To jest projekt stworzony za pomocą programu ``Sphinx``. 
 
 
 .. toctree::
    :maxdepth: 2
-   :caption: Spis tresci:
+   :caption: Spis treści:
 
    rozdzial1/index1
    rozdzial2/index2
